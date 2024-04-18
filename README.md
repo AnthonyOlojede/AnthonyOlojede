@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+ I’m currently working on ...
+- 🌱 I’m currently learning Data Anaylsis and Coding.
+- 👯 - 💬 You can also ask me about Project Management and Insurance.
+- 📫 How to reach me: You can reach me [here](anthonyolojede2022@gmail.com)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I love watching Soccer and Travelling.
+
+- 
 <!--
 **AnthonyOlojede/AnthonyOlojede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
