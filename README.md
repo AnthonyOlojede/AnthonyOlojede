@@ -3,7 +3,7 @@
 ## Thank you for visiting my page.
 - 🌱 I’m currently learning Data Anaylsis and Coding.
 - 👯 - 💬 You can also ask me about Project Management and Insurance.
-- 📫 You can reach me [here](https://mail.google.com/mail/)
+- 📫 You can reach me [here](https://mail.google.com/mail/mu/mp/578/#co)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love watching Soccer and Travelling.
 
